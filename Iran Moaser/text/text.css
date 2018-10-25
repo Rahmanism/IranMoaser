@@ -1,0 +1,25 @@
+﻿html {
+	direction: rtl;
+
+	scrollbar-3dlight-color: #cccccc;
+	scrollbar-arrow-color: #ffffff;
+	scrollbar-base-color: #555555;
+	scrollbar-darkshadow-color: #000000;
+	scrollbar-face-color: #999999;
+	scrollbar-highlight-color: #aaaaaa;
+	scrollbar-shadow-color: #333333;
+}
+
+body {
+	background-color: #F7E6CC;
+	background-image: url('back.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+
+}
+
+p {
+	font-family: Tahoma;
+	font-size: 13px;
+	text-align: justify;
+}
